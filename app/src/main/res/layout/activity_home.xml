@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
         android:text="Déconnexion"
-        android:background="@drawable/buttonshape"
+        android:background="@drawable/btn_red"
         android:textColor="@android:color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_marginLeft="8dp"

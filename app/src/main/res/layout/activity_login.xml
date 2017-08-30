@@ -47,7 +47,7 @@
         android:id="@+id/loginBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/buttonshape"
+        android:background="@drawable/btn_green"
         android:text="Connexion"
         android:textColor="@android:color/white"
         app:layout_constraintRight_toRightOf="parent"
